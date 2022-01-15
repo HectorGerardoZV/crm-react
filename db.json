@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Héctor Gerardo Zapata",
+      "empresa": "Facebook",
+      "email": "torrozapata@gmail.com",
+      "telefono": "123456",
+      "notas": "Estas son las notas",
+      "id": 1
+    },
+    {
+      "nombre": "Serio Junior",
+      "empresa": "Google",
+      "email": "Jr@gmail.com",
+      "telefono": "123456",
+      "notas": "Estas son las notas",
+      "id": 2
+    },
+    {
+      "nombre": "Julio Random",
+      "empresa": "Twitter",
+      "email": "julio@gmail.com",
+      "telefono": "123456",
+      "notas": "Estas son las notas",
+      "id": 3
+    },
+    {
+      "nombre": "Diana Medina",
+      "empresa": "Figma",
+      "email": "dlmn10@potros.itson.edu.mx",
+      "telefono": "644234232",
+      "notas": "Soy la mas linda",
+      "id": 4
+    },
+    {
+      "nombre": "Yair Martinez",
+      "empresa": "Youtube",
+      "email": "YairMc@gmail.com",
+      "telefono": "123456789",
+      "notas": "",
+      "id": 5
+    },
+    {
+      "nombre": "Manuel Valenuzuela",
+      "empresa": "ITSON",
+      "email": "manuel@gmail.com",
+      "telefono": "534345",
+      "notas": "El meño",
+      "id": 6
+    }
+  ]
+}
